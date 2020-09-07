@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/sharofovd/CRUD-applications-with-Hooks-in-ReactJs/static/css/main.5f361e03.chunk.css",
+    "main.js": "/sharofovd/CRUD-applications-with-Hooks-in-ReactJs/static/js/main.fbf91287.chunk.js",
+    "main.js.map": "/sharofovd/CRUD-applications-with-Hooks-in-ReactJs/static/js/main.fbf91287.chunk.js.map",
+    "runtime-main.js": "/sharofovd/CRUD-applications-with-Hooks-in-ReactJs/static/js/runtime-main.3254a93b.js",
+    "runtime-main.js.map": "/sharofovd/CRUD-applications-with-Hooks-in-ReactJs/static/js/runtime-main.3254a93b.js.map",
+    "static/css/2.f3cffc9e.chunk.css": "/sharofovd/CRUD-applications-with-Hooks-in-ReactJs/static/css/2.f3cffc9e.chunk.css",
+    "static/js/2.86c115a5.chunk.js": "/sharofovd/CRUD-applications-with-Hooks-in-ReactJs/static/js/2.86c115a5.chunk.js",
+    "static/js/2.86c115a5.chunk.js.map": "/sharofovd/CRUD-applications-with-Hooks-in-ReactJs/static/js/2.86c115a5.chunk.js.map",
+    "index.html": "/sharofovd/CRUD-applications-with-Hooks-in-ReactJs/index.html",
+    "precache-manifest.72a92f326fab0cac943d7d2d72665f50.js": "/sharofovd/CRUD-applications-with-Hooks-in-ReactJs/precache-manifest.72a92f326fab0cac943d7d2d72665f50.js",
+    "service-worker.js": "/sharofovd/CRUD-applications-with-Hooks-in-ReactJs/service-worker.js",
+    "static/css/2.f3cffc9e.chunk.css.map": "/sharofovd/CRUD-applications-with-Hooks-in-ReactJs/static/css/2.f3cffc9e.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/sharofovd/CRUD-applications-with-Hooks-in-ReactJs/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.86c115a5.chunk.js.LICENSE.txt": "/sharofovd/CRUD-applications-with-Hooks-in-ReactJs/static/js/2.86c115a5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3254a93b.js",
+    "static/css/2.f3cffc9e.chunk.css",
+    "static/js/2.86c115a5.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.fbf91287.chunk.js"
+  ]
+}
