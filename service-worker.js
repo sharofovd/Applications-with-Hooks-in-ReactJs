@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/sharofovd/CRUD-applications-with-Hooks-in-ReactJs/precache-manifest.72a92f326fab0cac943d7d2d72665f50.js"
+  "/CRUD-applications-with-Hooks-in-ReactJs/precache-manifest.ed33822116d21b07e0327a16ce67c89e.js"
 );
 
 self.addEventListener('message', (event) => {
@@ -33,7 +33,7 @@ workbox.core.clientsClaim();
 self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/sharofovd/CRUD-applications-with-Hooks-in-ReactJs/index.html"), {
+workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/CRUD-applications-with-Hooks-in-ReactJs/index.html"), {
   
   blacklist: [/^\/_/,/\/[^/?]+\.[^/]+$/],
 });
